@@ -1,2 +1,2 @@
 # py-cordex-data
-data repository for py-cordex test data
+data repository for py-cordex and cmor-check test data
